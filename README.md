@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Robert
+- 👀 I’m interested in data science, machine learning, and software development. I'm more on the beginner / intermediate level.
+- 🌱 I’m currently learning python and SQL.
+- 💞️ I’m looking to collaborate on projects where I can contribute in a meaningful way and learn new things!
+- 📫 How to reach me 12azzar@gmail.com
